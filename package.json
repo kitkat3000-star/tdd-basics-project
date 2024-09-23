@@ -8,9 +8,9 @@
     "e2e": "cypress open"
   },
   "devDependencies": {
-    "@types/jest": "^26.0.23",
+    "@types/jest": "^26.0.24",
     "cypress": "^7.4.0",
-    "jest": "^27.0.3",
+    "jest": "^27.5.1",
     "vite": "^2.3.5"
   }
 }
